@@ -1,8 +1,8 @@
 // --- EAP615-Wall wedge spacer (single piece, prints flat) ---
 plate_x   = 120;
 plate_y   = 86;
-thin_z    = 5;
-tilt_deg  = 7;
+thin_z    = 1;
+tilt_deg  = 20;
 flip_tilt = false;
 
 // device/yoke mount (US)
@@ -15,7 +15,7 @@ cbore_h        = 1.5;
 
 // cable cutout (RJ45 access)
 cutout_w      = 16;
-cutout_h      = 20;
+cutout_h      = 33;
 cutout_offset = 0;
 round_r       = 3;
 epsY_in       = 20;
